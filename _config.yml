@@ -1,19 +1,26 @@
 # Site settings
-course_name: History of Magic
-course_description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam ornare aliquam mattis. Donec hendrerit sollicitudin urna. Aliquam venenatis rutrum velit, at lobortis dui cursus a. Nam varius metus in turpis maximus, ut rhoncus tellus dictum. In aliquam tortor nec mi dapibus, sit amet vehicula dolor auctor."
-course_semester: "Fall 1998"
+course_name: Introduction to Computational Neuroscience (ME 5096-08, PDRT 5095-05)
+course_description:  "This nanocourse provides an introduction to the computational neuroscience. Topics cover single-neuron models, neural circuit models, neural coding theories, and perceptual computations. We will go through the concept and math of these models followed by coding exercise.
+
+Prerequisites: Calculus and linear algebra, MATLAB/Python.
+
+# Registration closed.
+# For UTSW graduate students and PostDocs, academic credit (1 credit hour) is available. 
+# Graduate students: BME 5096-08 Special Topics: Introduction to Computational Neuroscience
+# PostDocs: PDRT 5095-05 SPECIAL TOPICS IN BIOINFORMATICS - Introduction to Computational Neuroscience"
+course_semester: "Spring 2025"
 
 baseurl: "/Nanocourse-website" # the subpath of your site, e.g. /blog/
 url: "http://wenhao-z.github.io/" # the base hostname & protocol for your site
 
-schoolname: "Hogwarts"
-schoolurl: "https://hogwarts.edu"
-twitter_username: username 
+schoolname: "UT Southwestern Medical Center"
+schoolurl: "www.zhang-cnl.org"
+twitter_username: Wenhao86 
 
 address: |
-    School of Witchcraft and Wizardry
-    Hogwarts
-    Scotland
+    Computational Neuroscience Lab (CNL)
+    Bioinformatics and Brain Institute
+    UT Southwestern Medical Center
 
 # Set your Google Analytics tracking ID (set up yours at http://www.google.com/analytics/)
 # google_analytics: UA-XXXXXXXX-X
