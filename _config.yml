@@ -4,10 +4,6 @@ course_description:  "This nanocourse provides an introduction to the computatio
 
 Prerequisites: Calculus and linear algebra, MATLAB/Python.
 
-# Registration closed.
-# For UTSW graduate students and PostDocs, academic credit (1 credit hour) is available. 
-# Graduate students: BME 5096-08 Special Topics: Introduction to Computational Neuroscience
-# PostDocs: PDRT 5095-05 SPECIAL TOPICS IN BIOINFORMATICS - Introduction to Computational Neuroscience"
 course_semester: "Spring 2025"
 
 baseurl: "/Nanocourse-website" # the subpath of your site, e.g. /blog/
